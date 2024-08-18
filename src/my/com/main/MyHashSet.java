@@ -5,7 +5,7 @@ public class MyHashSet {
 	
 	public static void main (String [] str) {
 		
-		// Creating HashSet for storing items of close
+		// Creating HashSet for storing items of clothes
 		HashSet<String> mySet = new HashSet<>();
 		
 		// Checking set size
